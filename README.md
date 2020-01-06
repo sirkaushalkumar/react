@@ -36,4 +36,13 @@ React is split into two separate libraries
 &#8595;|
 |Build Project|
 
+**Note:** After installing node, we might have to to restart our terminal to get `node -v` to work.
 
+*Installation command breakdown*
+
+*`npm install -g create-react-app`*
+
+npm: Runs 'npm'
+install: We want to 'install' a package onto our computer(s)
+-g: Installs this package glovally so that we can run it from the terminal
+create-react-app: Name of the package we want to install
