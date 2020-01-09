@@ -43,6 +43,9 @@ React is split into two separate libraries
 *`npm install -g create-react-app`*
 
 npm: Runs 'npm'
+
 install: We want to 'install' a package onto our computer(s)
+
 -g: Installs this package glovally so that we can run it from the terminal
+
 create-react-app: Name of the package we want to install
