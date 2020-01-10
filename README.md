@@ -38,14 +38,7 @@ React is split into two separate libraries
 
 **Note:** After installing node, we might have to to restart our terminal to get `node -v` to work.
 
-*Installation command breakdown*
+To use `create-react-app`, one needs to run following command
+**`npx create-react-app app-name`**
 
-*`npm install -g create-react-app`*
-
-npm: Runs 'npm'
-
-install: We want to 'install' a package onto our computer(s)
-
--g: Installs this package glovally so that we can run it from the terminal
-
-create-react-app: Name of the package we want to install
+- This does also install many behind the libraries like webpack, babel and dev server, which we don't need to setup.
